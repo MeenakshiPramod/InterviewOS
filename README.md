@@ -14,7 +14,7 @@ When a user fails a problem, the system intelligently recommends **conceptually 
 ---
 
 ## Link to product walkthrough
-### Check out the live demo of the project [here](interviewos-production.up.railway.app).
+### Check out the live demo of the project [here](https://interviewos-production.up.railway.app/).
 
 
 <img width="2545" height="1342" alt="image" src="https://github.com/user-attachments/assets/a53756ab-e775-4272-943e-5d5b717877e3" />
